@@ -10,7 +10,7 @@ if(a==0)
 {
 System.out.print("zero");
 }
-if(a<0)
+else if(a<0)
 {
 System.out.print("positive");
 }
